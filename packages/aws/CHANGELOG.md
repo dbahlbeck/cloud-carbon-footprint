@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/aws
 
+## 0.6.2
+
+### Patch Changes
+
+- 3c68c87e: Fixes instance family logic when calculating embodied emissions
+
 ## 0.6.1
 
 ### Patch Changes
