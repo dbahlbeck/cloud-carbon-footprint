@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/azure
 
+## 0.5.2
+
+### Patch Changes
+
+- 4d99add7: fixes filter logic for consumption management api
+
 ## 0.5.1
 
 ### Patch Changes
